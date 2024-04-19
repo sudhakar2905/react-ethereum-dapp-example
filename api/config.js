@@ -19,6 +19,6 @@ module.exports = {
       scope: ['public_profile', 'email'],
       profileFields: ['id', 'displayName', 'photos', 'email', 'first_name', 'last_name', 'age_range'],
       accessTokenField: 'accessToken'
-    }
+    } 
   }
 };
